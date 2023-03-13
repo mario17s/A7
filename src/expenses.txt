@@ -1,0 +1,10 @@
+11,724,school
+23,860,transport
+15,791,school
+11,68,food
+15,845,shopping
+23,565,shopping
+29,505,internet
+15,215,internet
+24,993,shopping
+12,12,lala
